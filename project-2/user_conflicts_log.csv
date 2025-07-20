@@ -1,0 +1,469 @@
+user_id,tag,basic_value,search_value,action
+user1,Budget Preference,,Medium,supplemented
+user1,Group Size,,Solo,supplemented
+user1,Transport Preference,,Self-driving,supplemented
+user10,Travel Purpose,Urban,Food,conflict_updated
+user10,Planning Style,go with the flow,well-planned,conflict_updated
+user10,Transport Preference,,Self-driving,supplemented
+user10,Trip Duration Preference,,weekend,supplemented
+user10,Group Size,Small Group (3–5),Solo,rejected_weak_evidence
+user100,Budget Preference,,Medium,supplemented
+user100,Group Size,,Solo,supplemented
+user100,Transport Preference,,Self-driving,supplemented
+user100,Trip Duration Preference,,weekend,supplemented
+user100,Planning Style,Spontaneous,well-planned,rejected_weak_evidence
+user11,Budget Preference,,Medium,supplemented
+user11,Transport Preference,,Self-driving,supplemented
+user11,Trip Duration Preference,,weekend,supplemented
+user11,Group Size,Large Group(6+),Solo,rejected_weak_evidence
+user12,Planning Style,semi-planned,well-planned,conflict_updated
+user12,Budget Preference,,Medium,supplemented
+user12,Group Size,,Solo,supplemented
+user12,Transport Preference,,Self-driving,supplemented
+user12,Travel Purpose,Urban,Relaxation,rejected_weak_evidence
+user13,Interest Category,beach,outdoors,conflict_updated
+user13,Budget Preference,,Medium,supplemented
+user13,Transport Preference,,Self-driving,supplemented
+user13,Trip Duration Preference,,weekend,supplemented
+user13,Group Size,Family,Solo,rejected_weak_evidence
+user13,Travel Purpose,Urban,Relaxation,rejected_weak_evidence
+user13,Planning Style,go with the flow,well-planned,rejected_weak_evidence
+user14,Planning Style,semi-planned,well-planned,conflict_updated
+user14,Budget Preference,,Medium,supplemented
+user14,Group Size,,Couple,supplemented
+user14,Transport Preference,,Flights,supplemented
+user14,Trip Duration Preference,,weekend,supplemented
+user15,Interest Category,outdoors,architecture,conflict_updated
+user15,Planning Style,semi-planned,well-planned,conflict_updated
+user15,Transport Preference,,Self-driving,supplemented
+user15,Trip Duration Preference,,weekend,supplemented
+user15,Travel Purpose,Urban,Relaxation,rejected_weak_evidence
+user16,Interest Category,wildlife,outdoors,conflict_updated
+user16,Budget Preference,,Medium,supplemented
+user16,Transport Preference,,Self-driving,supplemented
+user16,Trip Duration Preference,,weekend,supplemented
+user16,Travel Purpose,Cultural,Relaxation,rejected_weak_evidence
+user17,Budget Preference,,Medium,supplemented
+user17,Group Size,,Solo,supplemented
+user17,Transport Preference,,Self-driving,supplemented
+user17,Trip Duration Preference,,weekend,supplemented
+user18,Group Size,,Couple,supplemented
+user18,Transport Preference,,Flights,supplemented
+user18,Trip Duration Preference,,weekend,supplemented
+user19,Budget Preference,Luxury,Medium,conflict_updated
+user19,Interest Category,museums,architecture,conflict_updated
+user19,Planning Style,semi-planned,well-planned,conflict_updated
+user19,Group Size,,Solo,supplemented
+user19,Transport Preference,,Self-driving,supplemented
+user19,Trip Duration Preference,,weekend,supplemented
+user2,Travel Purpose,Urban,Relaxation,conflict_updated
+user2,Interest Category,food tours,architecture,conflict_updated
+user2,Budget Preference,,Medium,supplemented
+user2,Group Size,,Solo,supplemented
+user2,Transport Preference,,Self-driving,supplemented
+user2,Trip Duration Preference,,weekend,supplemented
+user20,Budget Preference,,Medium,supplemented
+user20,Group Size,,Couple,supplemented
+user20,Transport Preference,,Self-driving,supplemented
+user20,Trip Duration Preference,,weekend,supplemented
+user21,Interest Category,landmarks,architecture,conflict_updated
+user21,Trip Duration Preference,short(3-5d),weekend,conflict_updated
+user21,Budget Preference,,Medium,supplemented
+user21,Group Size,,Solo,supplemented
+user21,Transport Preference,,Self-driving,supplemented
+user22,Interest Category,performances,architecture,conflict_updated
+user22,Planning Style,semi-planned,well-planned,conflict_updated
+user22,Budget Preference,,Medium,supplemented
+user22,Group Size,,Solo,supplemented
+user22,Transport Preference,,Self-driving,supplemented
+user22,Trip Duration Preference,,weekend,supplemented
+user23,Interest Category,landmarks,architecture,conflict_updated
+user23,Budget Preference,,Medium,supplemented
+user23,Transport Preference,,Self-driving,supplemented
+user23,Trip Duration Preference,,weekend,supplemented
+user24,Group Size,Large Group(6+),Family,conflict_updated
+user24,Interest Category,shopping & fashions,architecture,conflict_updated
+user24,Planning Style,semi-planned,well-planned,conflict_updated
+user24,Budget Preference,,Medium,supplemented
+user24,Transport Preference,,Self-driving,supplemented
+user24,Trip Duration Preference,,long(6-14d),supplemented
+user25,Budget Preference,,Medium,supplemented
+user25,Transport Preference,,Self-driving,supplemented
+user25,Trip Duration Preference,,weekend,supplemented
+user25,Group Size,Small Group (3–5),Solo,rejected_weak_evidence
+user25,Travel Purpose,Food,Relaxation,rejected_weak_evidence
+user26,Interest Category,art,architecture,conflict_updated
+user26,Group Size,,Solo,supplemented
+user26,Transport Preference,,Self-driving,supplemented
+user26,Trip Duration Preference,,weekend,supplemented
+user27,Planning Style,go with the flow,well-planned,conflict_updated
+user27,Budget Preference,,Medium,supplemented
+user27,Transport Preference,,Self-driving,supplemented
+user27,Trip Duration Preference,,weekend,supplemented
+user28,Budget Preference,,Medium,supplemented
+user28,Transport Preference,,Self-driving,supplemented
+user28,Trip Duration Preference,,weekend,supplemented
+user29,Budget Preference,,Medium,supplemented
+user29,Transport Preference,,Self-driving,supplemented
+user29,Trip Duration Preference,,weekend,supplemented
+user3,Budget Preference,,Medium,supplemented
+user3,Transport Preference,,Self-driving,supplemented
+user3,Trip Duration Preference,,weekend,supplemented
+user30,Budget Preference,Luxury,Medium,conflict_updated
+user30,Travel Purpose,Food,Adventure,conflict_updated
+user30,Interest Category,outdoors,food tours,conflict_updated
+user30,Group Size,,Couple,supplemented
+user30,Transport Preference,,Self-driving,supplemented
+user30,Trip Duration Preference,,weekend,supplemented
+user30,Planning Style,go with the flow,well-planned,rejected_weak_evidence
+user31,Interest Category,food tours,architecture,conflict_updated
+user31,Planning Style,semi-planned,well-planned,conflict_updated
+user31,Budget Preference,,Medium,supplemented
+user31,Transport Preference,,Self-driving,supplemented
+user31,Trip Duration Preference,,long(6-14d),supplemented
+user32,Transport Preference,,Self-driving,supplemented
+user33,Budget Preference,,Medium,supplemented
+user33,Group Size,,Solo,supplemented
+user33,Transport Preference,,Self-driving,supplemented
+user33,Trip Duration Preference,,weekend,supplemented
+user33,Travel Purpose,Urban,Relaxation,rejected_weak_evidence
+user34,Budget Preference,Low,Medium,conflict_updated
+user34,Transport Preference,,Self-driving,supplemented
+user34,Trip Duration Preference,,weekend,supplemented
+user34,Travel Purpose,Food,Relaxation,rejected_weak_evidence
+user34,Planning Style,go with the flow,well-planned,rejected_weak_evidence
+user35,Interest Category,food tours,architecture,conflict_updated
+user35,Budget Preference,,Medium,supplemented
+user35,Transport Preference,,Self-driving,supplemented
+user35,Trip Duration Preference,,weekend,supplemented
+user36,Interest Category,landmarks,architecture,conflict_updated
+user36,Budget Preference,,Medium,supplemented
+user36,Group Size,,Solo,supplemented
+user36,Transport Preference,,Self-driving,supplemented
+user36,Trip Duration Preference,,weekend,supplemented
+user36,Planning Style,Spontaneous,well-planned,rejected_weak_evidence
+user37,Interest Category,outdoors,architecture,conflict_updated
+user37,Planning Style,semi-planned,well-planned,conflict_updated
+user37,Budget Preference,,Medium,supplemented
+user37,Group Size,,Couple,supplemented
+user37,Transport Preference,,Self-driving,supplemented
+user37,Trip Duration Preference,,weekend,supplemented
+user37,Travel Purpose,Urban,Relaxation,rejected_weak_evidence
+user38,Budget Preference,Luxury,Medium,conflict_updated
+user38,Transport Preference,,Self-driving,supplemented
+user38,Trip Duration Preference,,weekend,supplemented
+user38,Planning Style,go with the flow,well-planned,rejected_weak_evidence
+user39,Budget Preference,,Medium,supplemented
+user39,Group Size,,Solo,supplemented
+user39,Transport Preference,,Self-driving,supplemented
+user39,Trip Duration Preference,,weekend,supplemented
+user4,Interest Category,landmarks,architecture,conflict_updated
+user4,Planning Style,go with the flow,well-planned,conflict_updated
+user4,Budget Preference,,Medium,supplemented
+user4,Transport Preference,,Self-driving,supplemented
+user4,Trip Duration Preference,,weekend,supplemented
+user4,Group Size,Family,Solo,rejected_weak_evidence
+user4,Travel Purpose,Adventure,Relaxation,rejected_weak_evidence
+user40,Travel Purpose,Urban,Cultural,conflict_updated
+user40,Budget Preference,,Medium,supplemented
+user40,Transport Preference,,Self-driving,supplemented
+user40,Trip Duration Preference,,long(6-14d),supplemented
+user41,Interest Category,wildlife,outdoors,conflict_updated
+user41,Transport Preference,,Self-driving,supplemented
+user41,Trip Duration Preference,,weekend,supplemented
+user42,Budget Preference,,Medium,supplemented
+user42,Transport Preference,,Self-driving,supplemented
+user42,Trip Duration Preference,,weekend,supplemented
+user43,Planning Style,semi-planned,well-planned,conflict_updated
+user43,Budget Preference,,Medium,supplemented
+user43,Transport Preference,,Self-driving,supplemented
+user44,Budget Preference,,Medium,supplemented
+user44,Group Size,,Couple,supplemented
+user44,Transport Preference,,Flights,supplemented
+user44,Trip Duration Preference,,weekend,supplemented
+user45,Planning Style,semi-planned,well-planned,conflict_updated
+user45,Trip Duration Preference,short(3-5d),weekend,conflict_updated
+user45,Budget Preference,,Medium,supplemented
+user45,Group Size,,Solo,supplemented
+user45,Transport Preference,,Self-driving,supplemented
+user45,Travel Purpose,Food,Relaxation,rejected_weak_evidence
+user46,Budget Preference,High,Medium,conflict_updated
+user46,Interest Category,art,architecture,conflict_updated
+user46,Planning Style,semi-planned,well-planned,conflict_updated
+user46,Transport Preference,,Self-driving,supplemented
+user46,Trip Duration Preference,,weekend,supplemented
+user47,Interest Category,landmarks,architecture,conflict_updated
+user47,Budget Preference,,Medium,supplemented
+user47,Transport Preference,,Self-driving,supplemented
+user47,Trip Duration Preference,,weekend,supplemented
+user47,Group Size,Small Group (3–5),Solo,rejected_weak_evidence
+user47,Travel Purpose,Food,Relaxation,rejected_weak_evidence
+user47,Planning Style,Spontaneous,well-planned,rejected_weak_evidence
+user48,Planning Style,go with the flow,well-planned,conflict_updated
+user48,Group Size,,Couple,supplemented
+user48,Transport Preference,,Self-driving,supplemented
+user48,Trip Duration Preference,,short(3-5d),supplemented
+user49,Travel Purpose,Adventure,Relaxation,conflict_updated
+user49,Interest Category,food tours,architecture,conflict_updated
+user49,Planning Style,semi-planned,well-planned,conflict_updated
+user49,Budget Preference,,Medium,supplemented
+user49,Group Size,,Solo,supplemented
+user49,Transport Preference,,Self-driving,supplemented
+user5,Interest Category,shopping & fashions,architecture,conflict_updated
+user5,Planning Style,Spontaneous,well-planned,conflict_updated
+user5,Budget Preference,,Medium,supplemented
+user5,Transport Preference,,Self-driving,supplemented
+user5,Trip Duration Preference,,short(3-5d),supplemented
+user50,Budget Preference,,Medium,supplemented
+user50,Group Size,,Solo,supplemented
+user50,Transport Preference,,Self-driving,supplemented
+user50,Trip Duration Preference,,weekend,supplemented
+user50,Planning Style,Spontaneous,well-planned,rejected_weak_evidence
+user51,Interest Category,performances,outdoors,conflict_updated
+user51,Budget Preference,,Medium,supplemented
+user51,Transport Preference,,Flights,supplemented
+user51,Trip Duration Preference,,weekend,supplemented
+user51,Travel Purpose,Urban,Relaxation,rejected_weak_evidence
+user52,Travel Purpose,Adventure,Relaxation,conflict_updated
+user52,Interest Category,food tours,architecture,conflict_updated
+user52,Planning Style,semi-planned,well-planned,conflict_updated
+user52,Budget Preference,,Medium,supplemented
+user52,Transport Preference,,Self-driving,supplemented
+user53,Planning Style,semi-planned,well-planned,conflict_updated
+user53,Budget Preference,,Medium,supplemented
+user53,Transport Preference,,Self-driving,supplemented
+user53,Trip Duration Preference,,weekend,supplemented
+user53,Group Size,Small Group (3–5),Solo,rejected_weak_evidence
+user54,Budget Preference,,Medium,supplemented
+user54,Transport Preference,,Self-driving,supplemented
+user54,Trip Duration Preference,,weekend,supplemented
+user55,Budget Preference,,Medium,supplemented
+user55,Group Size,,Solo,supplemented
+user55,Transport Preference,,Self-driving,supplemented
+user55,Trip Duration Preference,,weekend,supplemented
+user56,Interest Category,beach,architecture,conflict_updated
+user56,Budget Preference,,Medium,supplemented
+user56,Group Size,,Solo,supplemented
+user56,Transport Preference,,Self-driving,supplemented
+user56,Trip Duration Preference,,weekend,supplemented
+user57,Interest Category,shopping & fashions,architecture,conflict_updated
+user57,Transport Preference,,Self-driving,supplemented
+user58,Budget Preference,,Medium,supplemented
+user58,Group Size,,Solo,supplemented
+user58,Transport Preference,,Self-driving,supplemented
+user58,Trip Duration Preference,,weekend,supplemented
+user58,Travel Purpose,Food,Relaxation,rejected_weak_evidence
+user58,Planning Style,go with the flow,well-planned,rejected_weak_evidence
+user59,Budget Preference,Luxury,Medium,conflict_updated
+user59,Transport Preference,,Self-driving,supplemented
+user59,Trip Duration Preference,,weekend,supplemented
+user59,Group Size,Large Group(6+),Solo,rejected_weak_evidence
+user59,Travel Purpose,Adventure,Relaxation,rejected_weak_evidence
+user6,Transport Preference,,Self-driving,supplemented
+user6,Trip Duration Preference,,weekend,supplemented
+user6,Group Size,Family,Solo,rejected_weak_evidence
+user6,Travel Purpose,Food,Relaxation,rejected_weak_evidence
+user60,Budget Preference,,Medium,supplemented
+user60,Transport Preference,,Self-driving,supplemented
+user60,Trip Duration Preference,,short(3-5d),supplemented
+user60,Planning Style,go with the flow,well-planned,rejected_weak_evidence
+user61,Budget Preference,,Medium,supplemented
+user61,Group Size,,Couple,supplemented
+user61,Transport Preference,,Self-driving,supplemented
+user61,Trip Duration Preference,,long(6-14d),supplemented
+user62,Group Size,Large Group(6+),Family,conflict_updated
+user62,Interest Category,landmarks,architecture,conflict_updated
+user62,Budget Preference,,Medium,supplemented
+user62,Transport Preference,,Self-driving,supplemented
+user62,Trip Duration Preference,,weekend,supplemented
+user62,Travel Purpose,Adventure,Relaxation,rejected_weak_evidence
+user63,Planning Style,Spontaneous,well-planned,conflict_updated
+user63,Budget Preference,,Medium,supplemented
+user63,Group Size,,Solo,supplemented
+user63,Transport Preference,,Self-driving,supplemented
+user64,Budget Preference,,Medium,supplemented
+user64,Transport Preference,,Self-driving,supplemented
+user64,Group Size,Small Group (3–5),Solo,rejected_weak_evidence
+user65,Interest Category,art,architecture,conflict_updated
+user65,Trip Duration Preference,short(3-5d),weekend,conflict_updated
+user65,Budget Preference,,Medium,supplemented
+user65,Group Size,,Solo,supplemented
+user65,Transport Preference,,Self-driving,supplemented
+user66,Planning Style,go with the flow,well-planned,conflict_updated
+user66,Group Size,,Solo,supplemented
+user66,Transport Preference,,Flights,supplemented
+user66,Trip Duration Preference,,weekend,supplemented
+user67,Budget Preference,High,Medium,conflict_updated
+user67,Planning Style,semi-planned,well-planned,conflict_updated
+user67,Transport Preference,,Self-driving,supplemented
+user67,Trip Duration Preference,,weekend,supplemented
+user67,Group Size,Large Group(6+),Solo,rejected_weak_evidence
+user67,Travel Purpose,Urban,Relaxation,rejected_weak_evidence
+user68,Planning Style,Spontaneous,well-planned,conflict_updated
+user68,Trip Duration Preference,short(3-5d),weekend,conflict_updated
+user68,Budget Preference,,Medium,supplemented
+user68,Transport Preference,,Self-driving,supplemented
+user69,Budget Preference,,Medium,supplemented
+user69,Group Size,,Solo,supplemented
+user69,Transport Preference,,Self-driving,supplemented
+user69,Trip Duration Preference,,weekend,supplemented
+user7,Interest Category,museums,architecture,conflict_updated
+user7,Budget Preference,,Medium,supplemented
+user7,Group Size,,Solo,supplemented
+user7,Transport Preference,,Self-driving,supplemented
+user7,Trip Duration Preference,,weekend,supplemented
+user7,Travel Purpose,Urban,Relaxation,rejected_weak_evidence
+user70,Planning Style,Spontaneous,well-planned,conflict_updated
+user70,Budget Preference,,Medium,supplemented
+user70,Transport Preference,,Self-driving,supplemented
+user70,Trip Duration Preference,,weekend,supplemented
+user70,Group Size,Couple,Solo,rejected_weak_evidence
+user71,Interest Category,museums,architecture,conflict_updated
+user71,Planning Style,Spontaneous,well-planned,conflict_updated
+user71,Group Size,,Solo,supplemented
+user71,Transport Preference,,Self-driving,supplemented
+user71,Travel Purpose,Food,Relaxation,rejected_weak_evidence
+user72,Interest Category,landmarks,architecture,conflict_updated
+user72,Budget Preference,,Medium,supplemented
+user72,Group Size,,Solo,supplemented
+user72,Transport Preference,,Self-driving,supplemented
+user72,Trip Duration Preference,,weekend,supplemented
+user72,Travel Purpose,Food,Relaxation,rejected_weak_evidence
+user73,Interest Category,beach,architecture,conflict_updated
+user73,Planning Style,semi-planned,well-planned,conflict_updated
+user73,Budget Preference,,Medium,supplemented
+user73,Group Size,,Solo,supplemented
+user73,Transport Preference,,Self-driving,supplemented
+user73,Trip Duration Preference,,long(6-14d),supplemented
+user74,Budget Preference,High,Medium,conflict_updated
+user74,Planning Style,go with the flow,well-planned,conflict_updated
+user74,Transport Preference,,Self-driving,supplemented
+user74,Trip Duration Preference,,weekend,supplemented
+user75,Budget Preference,Low,Medium,conflict_updated
+user75,Interest Category,wildlife,outdoors,conflict_updated
+user75,Group Size,,Solo,supplemented
+user75,Transport Preference,,Self-driving,supplemented
+user75,Trip Duration Preference,,weekend,supplemented
+user75,Travel Purpose,Cultural,Relaxation,rejected_weak_evidence
+user76,Interest Category,food tours,architecture,conflict_updated
+user76,Planning Style,Spontaneous,well-planned,conflict_updated
+user76,Budget Preference,,Medium,supplemented
+user76,Transport Preference,,Self-driving,supplemented
+user76,Trip Duration Preference,,weekend,supplemented
+user77,Budget Preference,,Medium,supplemented
+user77,Group Size,,Solo,supplemented
+user77,Transport Preference,,Self-driving,supplemented
+user77,Trip Duration Preference,,weekend,supplemented
+user78,Interest Category,landmarks,architecture,conflict_updated
+user78,Budget Preference,,Medium,supplemented
+user78,Transport Preference,,Self-driving,supplemented
+user78,Trip Duration Preference,,weekend,supplemented
+user79,Interest Category,art,architecture,conflict_updated
+user79,Planning Style,go with the flow,well-planned,conflict_updated
+user79,Budget Preference,,Medium,supplemented
+user79,Transport Preference,,Self-driving,supplemented
+user79,Trip Duration Preference,,weekend,supplemented
+user79,Group Size,Family,Solo,rejected_weak_evidence
+user79,Travel Purpose,Food,Relaxation,rejected_weak_evidence
+user8,Budget Preference,,Medium,supplemented
+user8,Transport Preference,,Self-driving,supplemented
+user8,Trip Duration Preference,,weekend,supplemented
+user8,Group Size,Family,Solo,rejected_weak_evidence
+user8,Travel Purpose,Adventure,Food,rejected_weak_evidence
+user8,Planning Style,Spontaneous,well-planned,rejected_weak_evidence
+user80,Group Size,Large Group(6+),Family,conflict_updated
+user80,Planning Style,semi-planned,well-planned,conflict_updated
+user80,Transport Preference,,Self-driving,supplemented
+user80,Trip Duration Preference,,short(3-5d),supplemented
+user81,Interest Category,landmarks,architecture,conflict_updated
+user81,Group Size,,Solo,supplemented
+user81,Transport Preference,,Self-driving,supplemented
+user81,Trip Duration Preference,,weekend,supplemented
+user81,Travel Purpose,Urban,Relaxation,rejected_weak_evidence
+user81,Planning Style,Spontaneous,well-planned,rejected_weak_evidence
+user82,Interest Category,shopping & fashions,architecture,conflict_updated
+user82,Group Size,,Solo,supplemented
+user82,Transport Preference,,Self-driving,supplemented
+user82,Trip Duration Preference,,weekend,supplemented
+user82,Planning Style,Spontaneous,well-planned,rejected_weak_evidence
+user83,Interest Category,performances,architecture,conflict_updated
+user83,Budget Preference,,Medium,supplemented
+user83,Transport Preference,,Self-driving,supplemented
+user83,Planning Style,go with the flow,well-planned,rejected_weak_evidence
+user84,Planning Style,go with the flow,well-planned,conflict_updated
+user84,Budget Preference,,Medium,supplemented
+user84,Transport Preference,,Self-driving,supplemented
+user84,Trip Duration Preference,,short(3-5d),supplemented
+user85,Budget Preference,Low,Medium,conflict_updated
+user85,Group Size,,Solo,supplemented
+user85,Transport Preference,,Self-driving,supplemented
+user85,Trip Duration Preference,,long(6-14d),supplemented
+user85,Planning Style,go with the flow,well-planned,rejected_weak_evidence
+user86,Travel Purpose,Adventure,Relaxation,conflict_updated
+user86,Planning Style,semi-planned,well-planned,conflict_updated
+user86,Budget Preference,,Medium,supplemented
+user86,Transport Preference,,Self-driving,supplemented
+user86,Trip Duration Preference,,weekend,supplemented
+user87,Interest Category,museums,architecture,conflict_updated
+user87,Planning Style,go with the flow,well-planned,conflict_updated
+user87,Budget Preference,,Medium,supplemented
+user87,Group Size,,Solo,supplemented
+user87,Transport Preference,,Self-driving,supplemented
+user87,Trip Duration Preference,,weekend,supplemented
+user88,Budget Preference,,Medium,supplemented
+user88,Group Size,,Small Group (3–5),supplemented
+user88,Transport Preference,,Flights,supplemented
+user88,Trip Duration Preference,,weekend,supplemented
+user88,Travel Purpose,Urban,Adventure,rejected_weak_evidence
+user88,Planning Style,go with the flow,well-planned,rejected_weak_evidence
+user89,Budget Preference,,Medium,supplemented
+user89,Group Size,,Couple,supplemented
+user89,Transport Preference,,Self-driving,supplemented
+user89,Trip Duration Preference,,weekend,supplemented
+user9,Budget Preference,,Medium,supplemented
+user9,Transport Preference,,Self-driving,supplemented
+user9,Trip Duration Preference,,short(3-5d),supplemented
+user90,Budget Preference,,Medium,supplemented
+user90,Transport Preference,,Self-driving,supplemented
+user90,Trip Duration Preference,,long(6-14d),supplemented
+user91,Travel Purpose,Food,Cultural,conflict_updated
+user91,Budget Preference,,Medium,supplemented
+user91,Transport Preference,,Self-driving,supplemented
+user91,Trip Duration Preference,,weekend,supplemented
+user92,Budget Preference,Luxury,Medium,conflict_updated
+user92,Interest Category,beach,architecture,conflict_updated
+user92,Transport Preference,,Flights,supplemented
+user92,Trip Duration Preference,,weekend,supplemented
+user93,Group Size,Large Group(6+),Family,conflict_updated
+user93,Interest Category,beach,food tours,conflict_updated
+user93,Planning Style,go with the flow,well-planned,conflict_updated
+user93,Budget Preference,,Medium,supplemented
+user93,Transport Preference,,Self-driving,supplemented
+user93,Trip Duration Preference,,long(6-14d),supplemented
+user94,Budget Preference,,Medium,supplemented
+user94,Transport Preference,,Self-driving,supplemented
+user94,Trip Duration Preference,,long(6-14d),supplemented
+user95,Budget Preference,,Medium,supplemented
+user95,Transport Preference,,Self-driving,supplemented
+user95,Trip Duration Preference,,weekend,supplemented
+user96,Budget Preference,,Medium,supplemented
+user96,Group Size,,Couple,supplemented
+user96,Transport Preference,,Self-driving,supplemented
+user96,Trip Duration Preference,,weekend,supplemented
+user96,Travel Purpose,Food,Relaxation,rejected_weak_evidence
+user97,Interest Category,wildlife,outdoors,conflict_updated
+user97,Budget Preference,,Medium,supplemented
+user97,Group Size,,Solo,supplemented
+user97,Transport Preference,,Self-driving,supplemented
+user97,Trip Duration Preference,,weekend,supplemented
+user97,Travel Purpose,Cultural,Relaxation,rejected_weak_evidence
+user98,Interest Category,landmarks,architecture,conflict_updated
+user98,Planning Style,go with the flow,well-planned,conflict_updated
+user98,Trip Duration Preference,short(3-5d),weekend,conflict_updated
+user98,Budget Preference,,Medium,supplemented
+user98,Transport Preference,,Self-driving,supplemented
+user98,Group Size,Large Group(6+),Solo,rejected_weak_evidence
+user98,Travel Purpose,Adventure,Relaxation,rejected_weak_evidence
+user99,Budget Preference,,Medium,supplemented
+user99,Transport Preference,,Self-driving,supplemented
+user99,Travel Purpose,Food,Relaxation,rejected_weak_evidence

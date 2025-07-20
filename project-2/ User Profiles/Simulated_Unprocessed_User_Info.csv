@@ -1,0 +1,101 @@
+user,Budget Preference,Group Size,Travel Purpose,Interest Category,Planning Style,Transport Preference,Trip Duration Preference,Gender,Age,Location,Browsing Device
+user1,,,Relaxation,art,well-planned,,weekend,male,60+,Norway,PC
+user2,,,Urban,food tours,well-planned,,,male,45–60,Spain,PC
+user3,,Family,Cultural,wildlife,well-planned,,,prefer not to say,35–44,Croatia,PC
+user4,,Family,Adventure,landmarks,go with the flow,,,male,25–34,Switzerland,PC
+user5,,Family,Cultural,shopping & fashions,Spontaneous,,,prefer not to say,25–34,Iceland,PC
+user6,Medium 500–1500£,Family,Food,architecture,well-planned,,,female,35–44,Italy,PC
+user7,,,Urban,museums,well-planned,,,male,18–24,Spain,PC
+user8,,Family,Adventure,food tours,Spontaneous,,,female,45–60,Spain,PC
+user9,,Small Group (3–5),Cultural,wildlife,Spontaneous,,,male,25–34,Spain,PC
+user10,Medium 500–1500£,Small Group (3–5),Urban,food tours,go with the flow,,,prefer not to say,35–44,United Kingdom,PC
+user11,,Large Group(6+),Relaxation,outdoors,well-planned,,,female,45–60,United Kingdom,PC
+user12,,,Urban,performances,semi-planned,,weekend,male,18–24,Switzerland,PC
+user13,,Family,Urban,beach,go with the flow,,,male,25–34,Iceland,PC
+user14,,,Honeymoon,performances,semi-planned,,,male,60+,Norway,PC
+user15,Medium 500–1500£,Family,Urban,outdoors,semi-planned,,,female,45–60,Norway,PC
+user16,,Small Group (3–5),Cultural,wildlife,well-planned,,,male,35–44,Iceland,PC
+user17,,,Adventure,architecture,well-planned,,,female,60+,Switzerland,PC
+user18,High 1500–5000£,,Honeymoon,museums,well-planned,,,male,45–60,Spain,PC
+user19,Luxury >5000£,,Relaxation,museums,semi-planned,,,female,45–60,Greece,PC
+user20,,,Honeymoon,beach,semi-planned,,,female,60+,Norway,PC
+user21,,,Cultural,landmarks,well-planned,,short(3–5d),female,60+,Iceland,PC
+user22,,,Cultural,performances,semi-planned,,,female,45–60,Czech Republic,PC
+user23,,Couple,Food,landmarks,well-planned,,,female,60+,United Kingdom,PC
+user24,,Large Group(6+),Relaxation,shopping & fashions,semi-planned,,,female,35–44,France,PC
+user25,,Small Group (3–5),Food,outdoors,well-planned,,,prefer not to say,60+,United Kingdom,PC
+user26,Medium 500–1500£,,Relaxation,art,well-planned,,,prefer not to say,45–60,Norway,PC
+user27,,Solo,Relaxation,museums,go with the flow,,,female,45–60,Greece,PC
+user28,,Small Group (3–5),Relaxation,beach,well-planned,,,male,60+,Switzerland,PC
+user29,,Family,Food,food tours,well-planned,,,female,60+,France,PC
+user30,Luxury >5000£,,Food,outdoors,go with the flow,,,male,45–60,Czech Republic,PC
+user31,,Solo,Cultural,food tours,semi-planned,,,prefer not to say,25–34,Czech Republic,Mobile
+user32,Medium 500–1500£,Family,Relaxation,performances,well-planned,,weekend,female,35–44,United Kingdom,Mobile
+user33,,,Urban,outdoors,well-planned,,,prefer not to say,18–24,Switzerland,Mobile
+user34,Low <500£,Solo,Food,shopping & fashions,go with the flow,,,male,25–34,Croatia,Mobile
+user35,,Family,Relaxation,food tours,well-planned,,,prefer not to say,18–24,Switzerland,Mobile
+user36,,,Food,landmarks,Spontaneous,,,male,45–60,Norway,Mobile
+user37,,,Urban,outdoors,semi-planned,,,male,60+,Iceland,Mobile
+user38,Luxury >5000£,Small Group (3–5),Food,museums,go with the flow,,,prefer not to say,25–34,Greece,Mobile
+user39,,,Adventure,architecture,well-planned,,,female,25–34,Switzerland,Mobile
+user40,,Family,Urban,museums,well-planned,,,female,18–24,Greece,Mobile
+user41,Medium 500–1500£,Family,Cultural,wildlife,well-planned,,,male,25–34,Greece,Mobile
+user42,,Couple,Cultural,architecture,semi-planned,,,prefer not to say,45–60,Spain,Mobile
+user43,,Small Group (3–5),Adventure,art,semi-planned,,weekend,male,25–34,Norway,Mobile
+user44,,,Honeymoon,performances,well-planned,,,female,18–24,France,Mobile
+user45,,,Food,outdoors,semi-planned,,short(3–5d),male,45–60,Czech Republic,Mobile
+user46,High 1500–5000£,Couple,Adventure,art,semi-planned,,,prefer not to say,25–34,Greece,Mobile
+user47,,Small Group (3–5),Food,landmarks,Spontaneous,,,prefer not to say,18–24,Spain,Mobile
+user48,Medium 500–1500£,,Honeymoon,shopping & fashions,go with the flow,,,male,45–60,Greece,Mobile
+user49,,,Adventure,food tours,semi-planned,,weekend,male,25–34,United Kingdom,Mobile
+user50,,,Adventure,outdoors,Spontaneous,,,female,45–60,Iceland,Mobile
+user51,,Solo,Urban,performances,well-planned,,,female,60+,Czech Republic,Mobile
+user52,,Solo,Adventure,food tours,semi-planned,,weekend,female,35–44,Italy,Mobile
+user53,,Small Group (3–5),Cultural,architecture,semi-planned,,,prefer not to say,35–44,Croatia,Mobile
+user54,,Small Group (3–5),Cultural,art,semi-planned,,,male,45–60,Norway,Mobile
+user55,,,Adventure,outdoors,well-planned,,,male,25–34,Spain,Mobile
+user56,,,Honeymoon,beach,well-planned,,,female,18–24,France,Mobile
+user57,Medium 500–1500£,Family,Relaxation,shopping & fashions,well-planned,,weekend,female,18–24,Italy,Mobile
+user58,,,Food,shopping & fashions,go with the flow,,,female,25–34,Norway,Mobile
+user59,Luxury >5000£,Large Group(6+),Adventure,performances,well-planned,,,prefer not to say,35–44,Czech Republic,Mobile
+user60,,Solo,Cultural,wildlife,go with the flow,,,female,25–34,Norway,Mobile
+user61,,,Honeymoon,beach,well-planned,,,male,60+,Italy,Mobile
+user62,,Large Group(6+),Adventure,landmarks,semi-planned,,,prefer not to say,25–34,Croatia,Mobile
+user63,,,Cultural,architecture,Spontaneous,,weekend,female,18–24,Switzerland,Mobile
+user64,,Small Group (3–5),Relaxation,museums,well-planned,,weekend,female,25–34,Italy,Mobile
+user65,,,Adventure,art,well-planned,,short(3–5d),female,18–24,Spain,Mobile
+user66,High 1500–5000£,,Cultural,museums,go with the flow,,,female,25–34,Croatia,Mobile
+user67,High 1500–5000£,Large Group(6+),Urban,art,semi-planned,,,female,18–24,Croatia,Mobile
+user68,,Small Group (3–5),Food,food tours,Spontaneous,,short(3–5d),female,45–60,Spain,Mobile
+user69,,,Cultural,art,well-planned,,,female,35–44,France,Mobile
+user70,,Couple,Honeymoon,museums,Spontaneous,,,male,25–34,Norway,Mobile
+user71,Medium 500–1500£,,Food,museums,Spontaneous,,weekend,male,18–24,United Kingdom,Mobile
+user72,,,Food,landmarks,well-planned,,,female,60+,Iceland,Mobile
+user73,,,Honeymoon,beach,semi-planned,,,female,45–60,Czech Republic,Mobile
+user74,High 1500–5000£,Couple,Honeymoon,architecture,go with the flow,,,female,45–60,France,Mobile
+user75,Low <500£,,Cultural,wildlife,well-planned,,,prefer not to say,45–60,Iceland,Mobile
+user76,,Solo,Cultural,food tours,Spontaneous,,,prefer not to say,25–34,Switzerland,Mobile
+user77,,,Honeymoon,art,well-planned,,,female,25–34,France,Mobile
+user78,,Small Group (3–5),Cultural,landmarks,well-planned,,,prefer not to say,35–44,Greece,Mobile
+user79,,Family,Food,art,go with the flow,,,female,25–34,Croatia,Mobile
+user80,Medium 500–1500£,Large Group(6+),Cultural,landmarks,semi-planned,,,male,25–34,Greece,Mobile
+user81,Medium 500–1500£,,Urban,landmarks,Spontaneous,,,prefer not to say,45–60,Croatia,Mobile
+user82,Medium 500–1500£,,Cultural,shopping & fashions,Spontaneous,,,prefer not to say,18–24,United Kingdom,Mobile
+user83,,Couple,Honeymoon,performances,go with the flow,,weekend,male,25–34,Croatia,Mobile
+user84,,Couple,Cultural,museums,go with the flow,,,female,18–24,United Kingdom,Mobile
+user85,Low <500£,,Relaxation,performances,go with the flow,,,female,25–34,France,Mobile
+user86,,Family,Adventure,architecture,semi-planned,,,male,60+,Iceland,Mobile
+user87,,,Food,museums,go with the flow,,,prefer not to say,25–34,Italy,Mobile
+user88,,,Urban,performances,go with the flow,,,male,25–34,France,Mobile
+user89,,,Honeymoon,shopping & fashions,well-planned,,,prefer not to say,18–24,Switzerland,Mobile
+user90,,Solo,Cultural,art,well-planned,,,prefer not to say,35–44,Greece,Mobile
+user91,,Solo,Food,museums,well-planned,,,female,35–44,Italy,Mobile
+user92,Luxury >5000£,Couple,Honeymoon,beach,well-planned,,,male,60+,Spain,Mobile
+user93,,Large Group(6+),Food,beach,go with the flow,,,male,18–24,Switzerland,Mobile
+user94,,Small Group (3–5),Cultural,performances,semi-planned,,,female,45–60,Norway,Mobile
+user95,,Small Group (3–5),Urban,food tours,well-planned,,,prefer not to say,60+,Croatia,Mobile
+user96,,,Food,art,well-planned,,,male,60+,Croatia,Mobile
+user97,,,Cultural,wildlife,well-planned,,,female,25–34,France,Mobile
+user98,,Large Group(6+),Adventure,landmarks,go with the flow,,short(3–5d),male,45–60,Switzerland,Mobile
+user99,,Small Group (3–5),Food,architecture,well-planned,,weekend,prefer not to say,60+,France,Mobile
+user100,,,Food,food tours,Spontaneous,,,female,35–44,Spain,Mobile

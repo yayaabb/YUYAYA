@@ -1,0 +1,258 @@
+{
+  "Budget Preference": {
+    "Low": [
+      "cheap",
+      "low_budget",
+      "budget_travel",
+      "save_money",
+      "hostel",
+      "affordable_trip",
+      "backpacking",
+      "travel_on_a_shoestring",
+      "budget-friendly",
+      "minimal_spending",
+      "basic_accommodation"
+    ],
+    "Medium": [
+      "mid-range",
+      "good_value",
+      "moderate_price",
+      "affordable_comfort",
+      "decent_hotel",
+      "cost-effective",
+      "standard_room",
+      "3-star",
+      "reasonable_price",
+      "balanced_travel"
+    ],
+    "High": [
+      "upscale",
+      "premium_stay",
+      "high_quality",
+      "splurge",
+      "nicer_hotel",
+      "upgrade_experience",
+      "premium_comfort",
+      "more_expensive",
+      "boutique_hotel",
+      "quality_first"
+    ],
+    "Luxury": [
+      "luxury",
+      "5-star",
+      "exclusive",
+      "resort",
+      "spa_retreat",
+      "fine_dining",
+      "private_villa",
+      "high-end_travel",
+      "luxurious_getaway",
+      "celebrity-level",
+      "first_class",
+      "private_jet",
+      "chauffeur_service"
+    ]
+  },
+  "Group Size": {
+    "Solo": [
+      "solo",
+      "alone",
+      "just_me",
+      "solo_female_travel",
+      "traveling_by_myself",
+      "solo_backpacking",
+      "solo_traveler",
+      "single_journey",
+      "me-time"
+    ],
+    "Couple": [
+      "couple",
+      "romantic_trip",
+      "honeymoon",
+      "travel_with_partner",
+      "boyfriend",
+      "girlfriend",
+      "significant_other",
+      "two-person_trip",
+      "just_the_two_of_us"
+    ],
+    "Small Group (3\u20135)": [
+      "friends_trip",
+      "group_of_friends",
+      "bachelorette_trip",
+      "boys_trip",
+      "girls_getaway",
+      "with_buddies",
+      "besties",
+      "travel_squad",
+      "small_group_tour",
+      "weekend_with_friends"
+    ],
+    "Family": [
+      "family_trip",
+      "with_kids",
+      "parents",
+      "children",
+      "family_vacation",
+      "multigenerational_travel",
+      "traveling_with_baby",
+      "family-friendly",
+      "mom_and_dad",
+      "school_holiday"
+    ],
+    "Large Group (6+)": [
+      "big_group",
+      "company_retreat",
+      "team_travel",
+      "student_group",
+      "class_trip",
+      "extended_family_trip",
+      "large_tour",
+      "wedding_party",
+      "reunion_trip",
+      "group_getaway"
+    ]
+  },
+  "Travel Purpose": {
+    "Relaxation": [
+      "relax",
+      "unwind",
+      "chill",
+      "recharge",
+      "slow_travel",
+      "retreat",
+      "spa",
+      "peaceful",
+      "rest_and_reset",
+      "do_nothing_vacation",
+      "laid-back",
+      "quiet_getaway",
+      "mindful_travel",
+      "disconnect"
+    ],
+    "Adventure": [
+      "adventure",
+      "explore",
+      "thrill",
+      "extreme_sports",
+      "off-the-beaten-path",
+      "wild_adventure",
+      "adrenaline",
+      "canyoning",
+      "rock_climbing",
+      "mountain_biking",
+      "zipline",
+      "rafting"
+    ],
+    "Honeymoon": [
+      "honeymoon",
+      "romantic_escape",
+      "newlyweds",
+      "couples_resort",
+      "anniversary_trip",
+      "love_getaway",
+      "romance",
+      "wedding_trip",
+      "post-wedding_vacation",
+      "sunset_beach_walk"
+    ],
+    "Cultural": [
+      "culture",
+      "museum",
+      "art",
+      "heritage",
+      "local_traditions",
+      "old_town",
+      "historical_site",
+      "architecture_tour",
+      "cultural_immersion",
+      "temple_visit",
+      "guided_city_tour"
+    ],
+    "Food": [
+      "foodie",
+      "food_tour",
+      "street_food",
+      "gourmet",
+      "michelin",
+      "local_cuisine",
+      "dine_out",
+      "culinary_experience",
+      "food_market",
+      "restaurant_crawl",
+      "wine_tasting",
+      "brunch_spot"
+    ],
+    "Urban": [
+      "urban_travel",
+      "city_break",
+      "skyscrapers",
+      "nightlife",
+      "shopping_district",
+      "cityscape",
+      "downtown_area",
+      "cafe_hopping",
+      "metropolitan_vibe",
+      "tech_city",
+      "fashion_capital"
+    ]
+  },
+  "Transport Preference": {
+    "Self-driving": [
+      "self-drive",
+      "drive",
+      "road_trip",
+      "car_rental",
+      "highway",
+      "rent_a_car",
+      "driving_tour",
+      "by_car",
+      "freedom_to_drive",
+      "scenic_drive"
+    ],
+    "Train": [
+      "train",
+      "railway",
+      "station",
+      "rail_pass",
+      "eurostar",
+      "scenic_train_ride",
+      "high-speed_rail",
+      "night_train",
+      "sleeper_train"
+    ],
+    "Bus": [
+      "bus",
+      "coach",
+      "long-distance_bus",
+      "intercity_bus",
+      "cheap_transport",
+      "shuttle_bus",
+      "hop-on_hop-off",
+      "public_bus"
+    ],
+    "Flights": [
+      "flight",
+      "airplane",
+      "fly",
+      "airline",
+      "airport",
+      "boarding",
+      "domestic_flight",
+      "international_flight",
+      "round-trip_flight",
+      "airfare"
+    ],
+    "Cruise": [
+      "cruise",
+      "ship",
+      "sailing",
+      "boat_trip",
+      "ocean_cruise",
+      "ferry",
+      "luxury_liner",
+      "sea_travel",
+      "cruise_vacation"
+    ]
+  }
+}
