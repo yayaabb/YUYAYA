@@ -15,19 +15,19 @@
 
 ## 方法涉及
 
-### 【A】 AI 用户标签提取 （`main.py`）
+### 【A】 AI 用户标签提取 （`user_tag_pipeline_full_cleaned.py`）
 
 * 根据用户搜索行为和个人信息，通过 prompt 调用 LLaMA3 API
 * 生成包含 7 个综合类目的 JSON 标签结果
 * 具有语义证据判断冲突和标准化处理
 
-### 【B】 Stable Diffusion 图像生成 （`AutoPipelineForText2Image`）
+### 【B】 Stable Diffusion 图像生成 （`image_generation.py`）
 
 * 调用 Hugging Face FLUX.1-dev + LoRA （Ghibli）
 * 根据用户标签 + prompt 生成实际旅游场景图
 * 高颜值精致描述，适合礼品/示意广告场景
 
-### 【C】 AI 文案叠图 + 广告GIF动画 （`overlay_text_gif()`）
+### 【C】 AI 文案叠图 + 广告GIF动画 （`Slogan_generate.py`）
 
 * 调用 LLaMA3 编写密切、情感化旅游广告语
 * 利用 DETR 物体检测，自动避应绘文区域
@@ -39,7 +39,7 @@
 ## 输出文件
 
 * `user_tag_outputs_merged.csv`
-* `Mobileoutput/PCoutput_xx.png`（给每个用户的生成图片）
+* `Mobileoutput/PCoutput_xx.png`（个性化图片生成）
 * `final_outputs/mobile/pc/mb_ad_xx.gif`（广告动画效果）
 
 
